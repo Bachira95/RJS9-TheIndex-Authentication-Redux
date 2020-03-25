@@ -1,6 +1,7 @@
 // Author Actions
 export const SET_AUTHORS = "SET_AUTHORS";
 export const ADD_AUTHOR = "ADD_AUTHOR";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
 
 // Book Actions
 export const SET_BOOKS = "SET_BOOKS";
